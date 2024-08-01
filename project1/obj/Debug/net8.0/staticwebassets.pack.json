@@ -1,0 +1,757 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\project1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\Admin\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\bootstrap-admin-template-free.jpg",
+      "PackagePath": "staticwebassets\\Admin\\bootstrap-admin-template-free.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\User\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\User\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\User\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\User\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\User\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\User\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\User\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\slick.css",
+      "PackagePath": "staticwebassets\\User\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\css\\style.css",
+      "PackagePath": "staticwebassets\\User\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\User\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\User\\images\\banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\call-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\fb-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\fb-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\User\\images\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\User\\images\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\User\\images\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\icon3.png",
+      "PackagePath": "staticwebassets\\User\\images\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-10.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-2.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-3.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-4.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-5.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-6.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-7.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-8.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\img-9.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\instagram-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\instagram-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\logo.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\mail-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\map-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\quick-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\quick-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\services-bg.png",
+      "PackagePath": "staticwebassets\\User\\images\\services-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\social-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\social-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\images\\twitter-icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\twitter-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\custom.js",
+      "PackagePath": "staticwebassets\\User\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\User\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\User\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z.H\\Desktop\\project1\\project1\\wwwroot\\User\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\User\\js\\slider-setting.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project1.props",
+      "PackagePath": "build\\project1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.project1.props",
+      "PackagePath": "buildMultiTargeting\\project1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.project1.props",
+      "PackagePath": "buildTransitive\\project1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
